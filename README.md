@@ -121,9 +121,9 @@ Em caso de problemas na execução:
 
 *Projeto educativo desenvolvido para fins acadêmicos - Disciplina de Programação Java*
 
-**Desenvolvido por:** [Seu Nome]  
-**Instituição:** [Nome da Instituição]  
-**Ano:** 2024
+**Desenvolvido por:** Gabriel Regel
+**Instituição:** UNIDADE POLO 
+**Ano:** 2025
 ```
 
 Este README em Markdown está formatado com:
